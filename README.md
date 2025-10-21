@@ -570,7 +570,6 @@ streamlit run app.py --logger.level debug
 - **Documentation**: Check this README and inline code documentation
 - **Issues**: Search existing GitHub issues
 - **Community**: Join our Discord server
-- **Support**: Email support@yourcompany.com
 
 ## 📊 Performance Benchmarks
 
@@ -585,7 +584,7 @@ streamlit run app.py --logger.level debug
 
 ### Scalability Testing
 
-- **Concurrent Users**: Tested up to 100 simultaneous users
+- **Concurrent Users**: Tested up to 10 simultaneous users
 - **Throughput**: 500+ content generations per minute
 - **Uptime**: 99.9% availability in production environments
 
@@ -604,15 +603,6 @@ streamlit run app.py --logger.level debug
 - **SOC 2**: Security controls aligned with SOC 2 Type II standards
 - **HIPAA**: Healthcare-ready deployment options available
 
-## 📈 Roadmap
-
-### Upcoming Features
-
-- **Q1 2024**: Advanced bias detection with cultural sensitivity
-- **Q2 2024**: Multi-language content generation support
-- **Q3 2024**: Custom model fine-tuning integration
-- **Q4 2024**: Enterprise SSO and advanced user management
-
 ### Long-term Vision
 
 - **AI-Powered Content Strategy**: Intelligent content planning and optimization
@@ -620,26 +610,12 @@ streamlit run app.py --logger.level debug
 - **Advanced Analytics**: Predictive content performance modeling
 - **Integration Ecosystem**: Native integrations with major marketing platforms
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **FloTorch Team** for providing the excellent AI platform
 - **Streamlit Community** for the amazing web framework
 - **Open Source Contributors** who made this project possible
 - **Beta Testers** who provided valuable feedback
-
-## 📞 Support & Contact
-
-- **Documentation**: [docs.yourcompany.com](https://docs.yourcompany.com)
-- **GitHub Issues**: [Report bugs and request features](https://github.com/your-org/content-gen-monitoring/issues)
-- **Email Support**: support@yourcompany.com
-- **Community Discord**: [Join our community](https://discord.gg/yourserver)
-- **Twitter**: [@YourCompany](https://twitter.com/yourcompany)
-
----
 
 **Built with ❤️ by the Technical Team**
 
